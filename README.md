@@ -3,12 +3,17 @@ Es un programa escrito en Python, que permite crear ordenes de trabajo, apartir 
 
 
 Para utilizarlo tendras que descargar las siguientes librerias:
+
 1)
-    pip install datetime
+ pip install datetime
+ 
+ 
 Documentación aquí:https://docs.python.org/3/library/datetime.html
 
 2)
-    pip install openpyxl
+pip install openpyxl
+
+
 Documentación aquí: https://openpyxl.readthedocs.io/en/stable/  
 
 
